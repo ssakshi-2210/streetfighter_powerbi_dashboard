@@ -18,12 +18,12 @@ Additionally, HTML content downloaded from the app store has been incorporated t
 
 ## Dashboard Preview
 
-
+https://github.com/ssakshi-2210/streetfighter_powerbi_dashboard/blob/main/blanka.jpg
 
 ## Getting Started
 
 To view and interact with the PowerBI dashboard:
 
-1. **Clone the Repository**:
+1. Clone the Repository:
    ```bash
-   git clone https://github.com/yourusername/streetfighter-dashboard.git
+   git clone https://github.com/ssakshi-2210/streetfighter_powerbi_dashboard/tree/main
